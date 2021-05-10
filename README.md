@@ -1,6 +1,6 @@
-# angular
-https://lh3.googleusercontent.com/proxy/Ky67sOoSrUaX7VPBd3InHApC4Nz5hx4M_yjlBlhfF_jYQaYDRGOw3nByEitrdNgB5oJsZsteqd63QOEK8LbFGr2V4I2XzxiE32b1dCnV2DD2Zmeo0BXqKK40rQ
+
 <div id="app"></div>
+<img class="img-responsive" src="https://lh3.googleusercontent.com/proxy/Ky67sOoSrUaX7VPBd3InHApC4Nz5hx4M_yjlBlhfF_jYQaYDRGOw3nByEitrdNgB5oJsZsteqd63QOEK8LbFGr2V4I2XzxiE32b1dCnV2DD2Zmeo0BXqKK40rQ">
 <form action="aula6.html" method="get">
   Campo 1: <input type="text" size="100" tabindex="3" maxlength="4" name="campo1"><br>
   Campo 2: <input type="text" size="100" tabindex="2" name="campo2"><br>
@@ -192,7 +192,7 @@ https://lh3.googleusercontent.com/proxy/Ky67sOoSrUaX7VPBd3InHApC4Nz5hx4M_yjlBlhf
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
-<script src="app.js"></script>
+<script src="https://lh3.googleusercontent.com/proxy/Ky67sOoSrUaX7VPBd3InHApC4Nz5hx4M_yjlBlhfF_jYQaYDRGOw3nByEitrdNgB5oJsZsteqd63QOEK8LbFGr2V4I2XzxiE32b1dCnV2DD2Zmeo0BXqKK40rQ"></script>
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
@@ -214,7 +214,10 @@ https://lh3.googleusercontent.com/proxy/Ky67sOoSrUaX7VPBd3InHApC4Nz5hx4M_yjlBlhf
 <input class="btn btn-lg btn-verde btn-block" value="Recuperar" name="SendRecupSenha" type="submit">
 <div class="text-center" style="margin-top:20px;">
 Lembrou?
-<a href="login.php">Clique aqui</a>
+<a href="login.phphttps://unafisconacional.org.br/wp-content/uploads/2020/09/comunicado_3.jpg"
+>Clique aqui</a>
 </div>
 </form>
 </div>
+body{
+  
